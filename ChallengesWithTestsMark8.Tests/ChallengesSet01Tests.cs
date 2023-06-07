@@ -88,7 +88,7 @@ namespace ChallengesWithTestsMark8.Tests
         {
             // Arrange
             ChallengesSet01 challenger = new ChallengesSet01();
-
+                                               
             // Act
             int actual = challenger.GetSmallestNumber(number1, number2);
 

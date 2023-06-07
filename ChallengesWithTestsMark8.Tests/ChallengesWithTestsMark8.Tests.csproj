@@ -16,4 +16,7 @@
     <ProjectReference Include="..\ChallengesWithTestsMark8\ChallengesWithTestsMark8.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\.editorconfig" />
+  </ItemGroup>
 </Project>
