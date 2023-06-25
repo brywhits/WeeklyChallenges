@@ -20,7 +20,7 @@ namespace ChallengesWithTestsMark8.Tests
             ChallengesSet05 challenger = new ChallengesSet05();
 
             // Act
-            int actual = challenger.GetNextNumberDivisibleByN(startNumber, n);
+            int actual = challenger.NextNumberDivisibleByN(startNumber, n);
 
             // Assert
             Assert.Equal(expected, actual);
